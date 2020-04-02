@@ -10,7 +10,7 @@ print(lista2[0][1])
 
 
 # Randomico
-cidades = ['Taquara', 'Igrejinha', 'Campo Bom']
+cidades = ['Taquara', 'Igrejinha', 'Campo Bom', 'Nova Hartz']
 escolha = random.choice(cidades)
 print(escolha)
 
